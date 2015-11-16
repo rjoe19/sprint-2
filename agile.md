@@ -148,3 +148,16 @@ The vital events of scrum are-
 
 
 PAIRING REFLECTIONS
+
+
+What interests you?
+- the analogy of using a rally car driving situation re pairing, i.e. one driver and one navigator as a method of accelerating learning/progress
+
+
+
+
+
+What confuses you?
+- what if the skill level of both driver and navigator are the same? Does that mean that progress is stalled if their goal is to become more competent in programming?
+-sounds complicated w/ these variations in ping-pong pairing...can one's mind become muddled with the second style of ping-pong whereby the role of "test redder" changes frequently between participants.
+- What if the driver doesn't agree with the suggestions/guidance given by the navigator? Does that lead to arguments or much lower progress and social cohesiveness?
