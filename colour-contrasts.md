@@ -68,9 +68,6 @@ Large Text:
   WCAG AAA: fail
 
 
-
-
-
 7) #800080 / #da70d6
 Normal Text:
 WCAG AA: Fail
